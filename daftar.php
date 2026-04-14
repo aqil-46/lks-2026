@@ -1,0 +1,1 @@
+echo "<script>alert('Terimakasih sudah mendaftar');window.location='siswa/dashboard.php';</script>";
